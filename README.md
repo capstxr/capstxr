@@ -4,15 +4,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capstxr&theme=dark">
 </p>
 
-<div style="text-align:center;width: 300px;margin: 0 auto;border-style: dotted;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40/">&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
- </div>
- 
- 
-<div style="text-align: center;">
-  <div style="width: 500px; margin: 0 auto; background: #000; color: #fff;">This DIV is centered</div>
-</div>
+<h3 align="center">⌨ Languages</h3>
+
+| Name       | Icon                                                                                                                          | Markdown                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- |
+| Javascript | <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" /> | `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />` |
+| Typescript |  <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" />   |  `<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/typescript-icon.svg" alt="Typescript Icon" /> `  |
