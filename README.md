@@ -4,8 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capstxr&theme=dark">
 </p>
 
-<h3 align="center">⌨ Languages</h3>
-
 <p align="center">
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
