@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++"/>
+  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML"/>
+  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
+  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Visual Studio Code"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio"/>
