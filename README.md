@@ -7,7 +7,7 @@
 <h3 align="center">⌨ Languages</h3>
 
 <p align="center">
-  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++"/>
+  <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" padding="10px"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="CSharp"/>
   <img width="50px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" alt="Visual Studio Code"/>
