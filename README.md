@@ -1,5 +1,5 @@
 # 💫 About Me
-I am a Finnish 18 year old Full Stack Web Developer and student at OSAO.
+I am a Finnish 18 year old Full Stack Web Developer at WiseMaster.
 Below you can see some of the technologies I'm familiar with. Visit my [personal website](https://veeti-vahajylkka.vercel.app) to see some projects I've made over the years!
 
 ## 🌐 Web
