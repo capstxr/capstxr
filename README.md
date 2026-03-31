@@ -1,6 +1,5 @@
 # 💫 About Me
-I am a Finnish 18 year old Software Engineer at WiseMaster.
-Below you can see some of the technologies I'm familiar with. Visit my [personal website](https://veeti-vahajylkka.vercel.app) to see some projects I've made over the years!
+I am a Finnish 19 year old Software Engineer at WiseMaster.
 
 ## 🌐 Web
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
